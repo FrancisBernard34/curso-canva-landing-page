@@ -36,7 +36,7 @@ export function Indications() {
           description="Pessoas que desejam transformar suas redes sociais em um negócio de sucesso e aumentar a qualidade de suas postagens."
         />
       </div>
-      <a href="https://go.hotmart.com/F91841132U" target="_blank" className="mt-8">
+      <a href="https://go.hotmart.com/F91841132U?ap=67bf" target="_blank" className="mt-8">
         <button className="relative inline-flex xs:w-[25rem] w-[22rem] xs:h-[4.65rem] h-[4rem] overflow-hidden rounded-full p-[1px] focus:outline-none focus:ring-2 focus:ring-slate-400 focus:ring-offset-2 focus:ring-offset-slate-50">
           <span className="absolute inset-[-1000%] animate-[spin_2s_linear_infinite] bg-[conic-gradient(from_90deg_at_50%_50%,#E2CBFF_0%,#e64093_50%,#E2CBFF_100%)]" />
           <span className="inline-flex h-full w-full cursor-pointer items-center justify-center rounded-full bg-slate-950 px-3 py-1 text-2xl font-bold text-white backdrop-blur-3xl">
